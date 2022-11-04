@@ -1,0 +1,15 @@
+Nuoli vasen - kävele vasemmalle. Tuplapainalluksella lähtee juoksemaan.
+Nuoli oikea - kävele oikealle. Tuplapainalluksella lähtee juoksemaan.
+Nuoli ylös - Mene ovesta tai kävele tikapuita ylös
+Nuoli alas - Mene kyykkyyn tai kävele tikapuita alas. Jos suussa on jotain, Slime nielaisee.
+
+Nuoli alas + Z - liukuminen
+Z - Hyppy
+X - Syöminen. Jos slimen suussa on jotain, sylje se ulos.
+Z+X - Syöminen ilmasta
+
+Ilmassa, nuoli painettuna seinään päin - seinäliukuminen (Jos suu on tyhjä)
+Seinäliukuma + X - hyppy seinästä
+
+
+
